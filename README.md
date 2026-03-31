@@ -432,7 +432,7 @@ Intent-Trajectory-Prediction/
 | Name | Role | Institution |
 |---|---|---|
 | Sujeet | Team Lead — Model Architecture | Manipal Institute of Technology, Bengaluru (M.Tech Data Science 2025–2027) |
-| Akshay| Collaborator — Model Development, GitHub Integration | Manipal Institute of Technology, Bengaluru (M.Tech Data Science 2025–2027) |
+| Akshay| Collaborator — Model Development, Integration | Manipal Institute of Technology, Bengaluru (M.Tech Data Science 2025–2027) |
 | Nandini | Collaborator — Model Architecture, Training Pipeline | Manipal Institute of Technology, Bengaluru (M.Tech Data Science 2025–2027) |
 | Shreya | Collaborator — Model Architecture, Training Pipeline | Manipal Institute of Technology, Bengaluru (M.Tech Data Science 2025–2027) |
 **Stack:** Python · PyTorch · nuScenes-devkit · Google Colab T4 GPU
